@@ -19,7 +19,8 @@ Hi 👋, I'm Mahendra Rajan.D<br>A passionate AIDS student at Kongu Engineering 
 ![](https://github-contributor-stats.vercel.app/api?username=Mahendran8080&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
 
 ### 🏆 LeetCode Stats:
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Mahendran2259?theme=nord&font=Lexend&ext=heatmap)](https://leetcode.com/Mahendran2259/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Mahendran2259?theme=light&font=Lexend&ext=heatmap)](https://leetcode.com/Mahendran2259/)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
