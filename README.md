@@ -39,6 +39,10 @@ Eager to build impactful projects and explore new technologies.
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
+</p>
+
+<h3 align="left">LeetCode Stats:</h3>
+<p align="left">
   <a href="https://www.leetcode.com/mahendran2259" target="_blank">
     <img src="https://leetcard.jacoblin.cool/Mahendran2259?theme=forest&font=Lemonada" alt="LeetCode Stats" />
   </a>
