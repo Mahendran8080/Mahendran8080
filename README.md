@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Mahendra Rajan.D<br>A passionate AIDS student at Kongu Engineering College skilled in Java, C, C++, Python, and React. Eager to build impactful projects and explore new technologies.
+Hi 👋,  I'm Mahendra Rajan.D<br>A passionate AIDS student at Kongu Engineering College skilled in Java, C, C++, Python, and React. Eager to build impactful projects and explore new technologies.
 
 
 ## 🌐 Socials:
